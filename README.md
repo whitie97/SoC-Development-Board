@@ -1,2 +1,2 @@
 # SoC-Development-Board
-System-on-chip development utilising Xilinx Zync chip and various peripherals.
+System-on-chip development board utilising Xilinx ZYNQ chip and various peripherals.
